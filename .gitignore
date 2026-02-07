@@ -1,0 +1,16 @@
+﻿# Ignore data files
+data/raw/
+data/processed/
+
+# Ignore CSV outputs
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
